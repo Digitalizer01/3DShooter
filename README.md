@@ -1,27 +1,25 @@
-# README - Juego de disparos
+# README - Shooting Game
 
-https://youtu.be/7IzhMIC2t2I
+## Project Description
 
-## Descripción del Proyecto
+This game immerses you in a world full of challenges and dangers. Explore diverse scenarios, from mountainous terrains to urban facilities, facing enemies and solving intricate puzzles to advance.
 
-Este juego te sumerge en un mundo lleno de desafíos y peligros. Explora diversos escenarios, desde terrenos montañosos hasta instalaciones urbanas, enfrentándote a enemigos y resolviendo intrincados puzles para avanzar.
+### Key Features
 
-### Características Principales
+- **Diverse Scenarios:** Explore mountainous terrains, urban areas, and enclosed environments filled with challenges and secrets.
+- **Varied Weapons:** Use two different types of weapons: a precise, slow-firing pistol and a long-range, fast-firing machine gun.
+- **Shield System:** Protect your life with a shield that absorbs part of the damage received. Wisely manage your shield and health to survive.
+- **Intuitive HUD:** Keep an eye on your health, shield, weapon type, and ammunition at all times with the intuitive user interface.
+- **Intuitive Controls:** Control your character with the AWSD keys, jump with SPACE, shoot with the left click, and switch weapons with the mouse wheel.
 
-- **Escenarios Diversificados:** Explora terrenos montañosos, áreas urbanas y entornos cerrados llenos de desafíos y secretos.
-- **Armas Variadas:** Utiliza dos tipos de armas diferentes: una pistola precisa de cadencia lenta y una ametralladora de largo alcance y fuego rápido.
-- **Sistema de Escudo:** Protege tu vida con un escudo que absorbe parte del daño recibido. Administra sabiamente tu escudo y tu salud para sobrevivir.
-- **HUD Intuitivo:** Mantén un ojo en tu vida, escudo, tipo de arma y munición en todo momento gracias a la interfaz de usuario intuitiva.
-- **Controles Intuitivos:** Controla tu personaje con los botones AWSD, salta con SPACE, dispara con click izquierdo y cambia de arma con la rueda del ratón.
+### Gameplay Experience
 
-### Experiencia de Juego
+- **Emphasis on Stealth:** Although the game features action mechanics, stealth is emphasized as a viable strategy. Players can avoid direct confrontations using stealth tactics to remain undetected by enemies.
+- **Scarcity of Ammunition and Recovery Items:** Resources are limited in the game. Ammunition is scarce, and recovery items, such as health and shield, are hard to find. Players must carefully manage their resources and explore the environment to find items that help them survive.
+- **Strategic Encounters:** Players need to plan their moves and encounters carefully. Use the environment to your advantage and choose the right moment to attack or evade enemies.
 
-- **Sigilo Emphasizado:** Aunque el juego presenta mecánicas de acción, se enfatiza el sigilo como una estrategia viable. Los jugadores pueden evitar enfrentamientos directos utilizando tácticas de sigilo para pasar desapercibidos ante los enemigos.
-- **Escasez de Munición y Objetos de Recuperación:** Los recursos son limitados en el juego. La munición es escasa y los objetos de recuperación, como salud y escudo, son difíciles de encontrar. Los jugadores deben administrar cuidadosamente sus recursos y explorar el entorno para encontrar objetos que les ayuden a sobrevivir.
-- **Enfrentamientos Estratégicos:** Los jugadores deben planificar sus movimientos y enfrentamientos con cautela. Utiliza el entorno a tu favor y elige el momento adecuado para atacar o esquivar a los enemigos.
+### Technology Used
 
-### Tecnología Utilizada
+- **Unity Version:** 2022.3.20f1
 
-- **Unity Versión:** 2022.3.20f1
-
-¡Prepárate para la acción y sumérgete en este desafiante juego!
+Get ready for action and immerse yourself in this challenging game!
