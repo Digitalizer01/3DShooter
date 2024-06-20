@@ -1,4 +1,4 @@
-# README - Shooting Game
+# Shooting Game
 
 ## Project Description
 
